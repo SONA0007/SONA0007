@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonal</h1>
 <h3 align="center">A passionate Tech Explorer from India</h3>
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m currently looking for job opportunities in **Software Engineering**
 
 - 🌱 I’m currently learning **Spring Boot Framework and DSA-1 course by Princeton University**
 
