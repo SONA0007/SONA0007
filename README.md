@@ -21,3 +21,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+✍️ I have written blogs on
+<br>
+[Demystifying JavaScript Equality: A Deep Dive into `==` and `===`](https://sonad.hashnode.dev/demystifying-javascript-equality-a-deep-dive-into-and)
+<br>
+[Learn JSX and Styling in React: Day 3 Walkthrough](https://sonad.hashnode.dev/learn-jsx-and-styling-in-react-day-3-walkthrough)
+
