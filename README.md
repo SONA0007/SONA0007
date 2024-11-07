@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for job opportunities in  Software Engineering
 
-- 🌱 I’m currently learning **Spring Boot Framework and MERN stack
+- 🌱 I’m developing coding skills , utilizing development skills.
 
 - 📫 How to reach me **sonalsanjaydiwan777@gmail.com**
   
