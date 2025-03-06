@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sonal</h1>
 <h3 align="center">A Passionate Tech Explorer from India</h3>
 
-- 🔭 I’m actively seeking job opportunities in Software Engineering.  
+- 🔭 Learn and Implemment, Just do it !  
 - 🌱 Continuously honing my coding and development skills.  
 - 📫 Feel free to reach out: **sonalsanjaydiwan777@gmail.com**  
 - ✍️ I share my thoughts and knowledge through blogs on [Hashnode][(https://hashnode.com/)](https://hashnode.com/@SD07) and keep optimizing my GitHub profile.  
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonal-diwan-192356206) 
